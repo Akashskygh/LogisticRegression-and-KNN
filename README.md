@@ -1,0 +1,1 @@
+This script employs Pandas, NumPy, Matplotlib, and Scikit-learn libraries to perform exploratory data analysis, visualize target value distributions, and conduct classification using Logistic Regression and K-Nearest Neighbors algorithms. It evaluates model accuracy, presents performance metrics, and visualizes classification outcomes.
